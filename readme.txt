@@ -1,0 +1,3 @@
+    After decompress it, goes in to the file folder and run make. I already test it, makefile works well. If it doesn't work, it can also be done with "g++ myprogram.cpp -o my" then ./my -x xxxx will work.
+
+    After run this program it will ask you to type the input file's name, like test.txt or test1.txt in the folder, it read the name you type in as input and ask you to type the name like res.txt or sth you like as output. I already have a sample input in the file.  The test.txt was abcd....xyz, the test1.txt was acutally the out put from test.txt -e 123, so if you if you use test1.txt as input, -d 123. then the out put will same as test.txt.
