@@ -1,0 +1,12 @@
+1 A B C D
+2 A B C D
+3 A B C D
+4 A B C D
+0
+fourqueenConstraint 1 2
+fourqueenConstraint 1 3 
+fourqueenConstraint 1 4
+fourqueenConstraint 2 3
+fourqueenConstraint 2 4
+fourqueenConstraint 3 4
+0
