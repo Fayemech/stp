@@ -1,0 +1,17 @@
+To compile:  
+make 
+
+To clen 
+make clean
+
+To run: first open three terminal then run as the follow command
+./as <authserverport> <clientID> <clientkey> <serverID> <serverkey>
+./server <server port> <serverkey>
+./client <authservername> <authserverport> <clientkey> <server name> <server port> <clientID> <serverID>
+
+After succeed run, The AS server will print out "AS finish its work".
+Server will print out "One sentence", "server finish work here". I let the server print out the pdata it recieved from the client in order to check the progress. 
+Client will print "OK", followed by the "Decrypt data", "Encrypt data".
+
+
+Basically, my three files works fine. If it has problem, please let me know. 
